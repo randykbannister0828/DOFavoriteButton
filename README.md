@@ -1,29 +1,13 @@
 # DOFavoriteButton
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Version](https://img.shields.io/cocoapods/v/DOFavoriteButton.svg?style=flat)](http://cocoapods.org/pods/DOFavoriteButton)
-[![Platform](https://img.shields.io/cocoapods/p/DOFavoriteButton.svg?style=flat)](http://cocoapods.org/pods/DOFavoriteButton)
-[![License](https://img.shields.io/cocoapods/l/DOFavoriteButton.svg?style=flat)](https://github.com/okmr-d/DOFavoriteButton/blob/master/LICENSE)
 
 Cute Animated Button written in Swift.
 It could be just right for favorite buttons!
-![Demo](https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif)
 
 ## Requirements
 * iOS 7.0+
 * Swift 1.2
 
 ## Installation
-#### Carthage
-Add the following line to your `Cartfile`:
-```
-github "okmr-d/DOFavoriteButton"
-```
-
-#### CocoaPods
-Add the following line to your `Podfile`:
-```
-pod 'DOFavoriteButton'
-```
 
 #### Manual
 Just drag DOFavoriteButton.swift to your project.
@@ -76,9 +60,3 @@ Result:
 
 ## DEMO
 There is a demo project added to this repository, so you can see how it works.
-
-## Credit/Inspiration
-DOFavoriteButton was inspired by [Twitter's iOS App](https://itunes.apple.com/us/app/twitter/id333903271).
-
-## License
-This software is released under the MIT License.

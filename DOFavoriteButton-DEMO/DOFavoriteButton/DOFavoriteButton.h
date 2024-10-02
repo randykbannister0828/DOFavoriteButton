@@ -2,8 +2,8 @@
 //  DOFavoriteButton.h
 //  DOFavoriteButton
 //
-//  Created by Daiki Okumura on 2015/07/25.
-//  Copyright (c) 2015 Daiki Okumura. All rights reserved.
+//  Created by Randy Bannister on 07/25/2019.
+//  Copyright (c) 2019 Randy Bannister. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
